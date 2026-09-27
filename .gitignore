@@ -1,0 +1,4 @@
+secure_backups/
+fim_log.txt
+__pycache__/
+.DS_Store
